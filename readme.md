@@ -4,4 +4,4 @@ then message will be relayed to every connection on the server.
 
 (on client side send 2 bytes header in little order then send whole message.)
 
-**This relay require QT to run**
+**This relay require QT 6.3 to run**
